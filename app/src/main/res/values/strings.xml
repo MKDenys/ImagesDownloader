@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImagesDownloder</string>
+    <string name="button_download_text">Download selected</string>
+    <string name="download_error_message">Error: image%d didn\'t download</string>
+    <string name="random_image">random image</string>
+</resources>
